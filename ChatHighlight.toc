@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: Chat Hightlight
+## Notes: Hightlights user defined phrases in all or some text messages
+## Version: 0.1.0
+## SavedVariablesPerCharacter: SavedHighlightRegister
+
+ChatHighlight.lua
+ChatHighlight.xml
